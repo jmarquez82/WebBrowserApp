@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFFF6700</color>
+    <color name="naranjotext">#FFFF6702</color>
+    <color name="naranjoborder">#FFFF6700</color>
+    <color name="azulapp">#FF0066A1</color>
+    <color name="blancoapp">#ffffff</color>
+
+</resources>

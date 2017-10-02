@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/bafi</item>
+    </style>
+
+    <style name="cajatextview" >
+        <!-- Customize your theme here. -->
+        <item name="android:background">@drawable/cajatext</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/naranjoborder</item>
+    </style>
+
+    <style name="textcajatext" >
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/naranjotext</item>
+        <item name="fontPath">fonts/DINNextLTPro-Medium.otf</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="text_lg" >
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/azulapp</item>
+        <item name="fontPath">fonts/DINNextLTPro-BoldItalic.otf</item>
+        <item name="android:textSize">54sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_s" >
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/azulapp</item>
+        <item name="fontPath">fonts/DINNextLTPro-MediumItalic.otf</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+</resources>
